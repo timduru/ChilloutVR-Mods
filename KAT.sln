@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAT", "KAT.csproj", "{91E49041-9BBF-49DD-A71B-8A8E0D1E8F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KATCamera", "KATCamera.csproj", "{91E49041-9BBF-49DD-A71B-8A8E0D1E8F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
